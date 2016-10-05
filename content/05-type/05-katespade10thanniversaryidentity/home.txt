@@ -1,0 +1,37 @@
+﻿Title: katespade20thanniversaryidentity
+
+----
+
+Featured_img: kkuthe_cap_out4690.jpg
+
+----
+
+Orientation: landscape
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 1
+
+----
+
+Shop: false
+
+----
+
+Caption_1: Type,2013
+
+----
+
+Caption_2: Kate Spade 20th Anniversary Identity,Tissue Paper
+
+----
+
+Caption_3: Kate Spade
+
+----
+
+Caption_4: Bodoni,Neon Pink,White,Hand-Lettered,Script,Pattern

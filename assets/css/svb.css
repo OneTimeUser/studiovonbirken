@@ -1,0 +1,475 @@
+/* -----------------------------------------------------------------------------
+ *   Custom styles for Studio Von Birken
+ * -----------------------------------------------------------------------------
+ */
+
+@font-face {
+  font-family: 'Berthold';
+  src: url('AkzidenzGroteskBE-Regular.eot');
+  src: local('☺︎'),
+    url("AkzidenzGroteskBE-Regular.woff") format("woff"),
+    url("AkzidenzGroteskBE-Regular.svg") format("svg");
+}
+
+@font-face {
+  font-family: 'Berthold-Md';
+  src: url('AkzidenzGroteskBE-Md.eot');
+  src: local('☺︎'),
+    url("AkzidenzGroteskBE-Md.woff") format("woff"),
+    url("AkzidenzGroteskBE-Md.svg") format("svg");
+}
+
+body {
+    padding: 0 18px;
+    font: 9pt/9pt 'Times New Roman';
+    background-color: #dbded9;
+}
+
+#body-wrapper{
+    width: 1128px;
+    margin: 0 auto;
+}
+
+a:link,
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.grid {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.grid > div {
+    clear: both;
+}
+
+.grid .project {
+    display: inline-block;
+    float: left;
+    transition: all 1s ease-in-out;
+}
+
+.grid .project > a:first-child {
+    display: block;
+    overflow: hidden;
+}
+
+.grid .project > a:first-child img {
+    max-width: 100%;
+    height: auto;
+}
+
+.video-container {
+    width: 1080px;
+    height: 800px;
+}
+
+#header-wrapper{
+    width: 1128px;
+    background-color: white;
+    margin-top: 18px;
+    margin-bottom: 9px;
+}
+
+header {
+    width: 1080px;
+    box-sizing: border-box;
+    padding-top: 18px;
+    margin: 0 auto;
+}
+
+header > a {
+    display: inline-block;
+    height: 100%;
+    text-indent: -9999px;
+}
+
+header .logo {
+/*    width: 33px;
+    height: 18px;*/
+    width: 210px;
+    height: 174px;
+    background: url(../images/logo-2b.gif) no-repeat;
+    background: url(../images/logo-2b.svg) no-repeat;
+/*    background: url(../images/logo.png);
+    background: url(../images/logo.svg);
+    background-size: 33px 18px;*/
+}
+
+header .name{
+    color: black;
+    position: relative;
+    /* width: 54px; */
+    height: 100px;
+    display: inline;
+    /* z-index: 999999999; */
+    bottom: -168px;
+    left: -36px;
+    font-size: 20pt;
+}
+
+header .contact {
+    float: right;
+    background: url(../images/icons/mail.png);
+    background: url(../images/icons/mail.svg);
+    background-size: 29px 15px;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 15px;
+    overflow: hidden;
+}
+
+
+#nav-wrapper{
+    width: 1128px;
+    background-color: white;
+    margin-bottom: 9px;
+}
+
+#nav-wrapper, .targetDiv{
+    font-family: 'Berthold-Md', sans-serif ;
+    /*font-family: 'Times New Roman', serif;*/
+
+}
+
+nav {
+    height: 98px;
+    width: 1080px;
+    box-sizing: border-box;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    margin: 0 auto;
+}
+
+nav ul{
+}
+
+nav li{
+    font-size: 16px;
+    width: 270px;
+    float: left;
+    line-height: 14.5pt;
+}
+.nav-group-1, .nav-group-3, .nav-group-2, .nav-group-4 {
+    width: 270px;
+    float: left;
+}
+.nav-group-1{
+
+}
+.nav-group-2{
+    
+}
+.nav-group-3{
+    
+}
+.nav-group-4{
+    
+}
+
+.call-action{
+    font-family: 'Berthold-Md', sans-serif !important;
+    font-size: 10px;
+    width: 270px;
+    padding-bottom: 9px;
+
+}
+
+.targetDiv{
+    font-size: 16px;
+    line-height: 18.5px; 
+    display:none;
+    padding-bottom: 18px; 
+}
+
+#div0{
+    display:block;
+    padding-bottom: 0;
+
+}
+
+.col1, .col2{
+    width: 270px;
+    float:left;
+}
+
+.targetDiv div{
+    padding-bottom: 15px;
+}
+
+#div1.targetDiv a{
+    font-family: 'Berthold-Md', sans-serif ;
+   /* text-decoration: underline;*/
+}
+
+#div1.targetDiv p{
+    font-family: 'Times New Roman', serif;
+}
+
+
+
+#container{
+    width: 1128px;
+    background-color: white;
+}
+
+#main{
+    margin: 0 auto;
+    width: 1080px;
+    padding-top: 18px;
+}
+
+.keywords {
+    display: block;
+    clear: both;
+    min-height: 56px;
+    box-sizing: border-box;
+    padding: 3px 0 4px;
+    line-height: 12px;
+}
+
+.keywords li span {
+    box-sizing: border-box;
+    height: 12px;
+    background: url(../images/border.gif) repeat-x 0 90%;
+}
+
+.keywords li span a {
+    display: inline-block;
+}
+
+.keywords li span a:hover {
+    background-color: #f00;
+}
+
+
+
+/*search*/
+#div4{
+    position: absolute;
+    top: 275px;
+    background-color: white;
+}
+
+.searchBox{
+        padding-bottom: 0px;
+    }
+
+.showSingle{
+        cursor:pointer;
+}
+
+#nav-wrapper li a:hover, #div1.targetDiv a:hover{
+    background-color: red;
+}
+
+.no-results{
+    padding: 24px;
+}
+
+.btcf:after {
+    content:"";
+    display:table;
+    clear:both;
+}
+
+
+/* Portrait A: one large image ----------------------------------------------- */
+.portrait-a > .project > a:first-child {
+    width: 1080px;
+    height: 1440px;
+}
+
+/* Portrait B: Two images, side-by-side -------------------------------------- */
+.portrait-b > .project {
+    width: 526px;
+}
+
+.portrait-b > .project > a:first-child {
+    width: 526px;
+    height: 701px;
+}
+
+.portrait-b > div:first-child {
+    margin-right: 27px;
+}
+
+
+/* Landscape A: One large image ---------------------------------------------- */
+.landscape-a > .project {
+    width: 1080px;
+}
+
+.landscape-a > .project > a:first-child,
+.landscape-a .video-container {
+    width: 1080px;
+    height: 800px;
+}
+
+/* Landscape B: Four images, two in each row --------------------------------- */
+.landscape-b > .project {
+    width: 526px;
+}
+
+.landscape-b > .project > a:first-child,
+.landscape-b .video-container {
+    width: 526px;
+    height: 390px;
+}
+
+.landscape-b > div:nth-child(odd) {
+    margin-right: 27px;
+}
+
+
+/* #Media Queries
+================================================== */
+
+  /* All Mobile Sizes (devices and browser) */
+  @media only screen and (max-width: 767px) {
+    
+    header {
+        width: 100%;
+        padding-left: 18px;
+    }
+
+    #body-wrapper{
+        width:100%;
+    }
+
+    #header-wrapper{
+        width: 100%;
+    }
+
+    #nav-wrapper{
+        width: 100%;
+    }
+
+    nav{
+        height: 148px;
+        width: 100%;
+        box-sizing: border-box;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left:18px;
+        margin: 0 auto;
+    }
+
+    nav ul{
+        width: 50%;
+        float: left;
+    }
+
+    nav li{
+        width: 100%;
+        line-height: 18pt;
+    }
+
+    .nav-group-1, .nav-group-3, .nav-group-2, .nav-group-4 {
+    width: 50%;
+    float: left;
+    }
+    .nav-group-1{
+
+    }
+    .nav-group-2{
+        
+    }
+    .nav-group-3{
+        float:right;
+    }
+    .nav-group-4{
+        
+    }
+
+    #container{
+        width: 100%;
+    }
+
+    #main{
+        padding: 18px;
+        width:auto;
+    }
+
+    .grid{
+        width: 100%;
+    }
+
+    .grid > .project {
+        display: block;
+        float: none;
+        margin: 12px auto;
+    }
+
+    #div4{
+        top:330px;
+    }
+
+
+
+    .video-container {
+        overflow: hidden;
+        padding-bottom: 75%; /* 4:3 aspect ratio */;
+        position: relative;
+        width: 100%;
+        height: 0;
+    }
+    .video-container iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+    }
+
+    .landscape-a > .project,
+    .landscape-b > .project,
+    .portrait-a > .project,
+    .portrait-b > .project,
+    .project > a:first-child,
+    .landscape-a > .project > a:first-child,
+    .landscape-b > .project > a:first-child,
+    .portrait-a > .project > a:first-child,
+    .portrait-b > .project > a:first-child,
+    .video-container,
+    .landscape-a .video-container,
+    .landscape-b .video-container {
+        width: 100%;
+        height: auto;
+    }
+  }
+
+  /* iPhone-specific */
+  @media only screen and (max-width: 568px) {
+    .keywords {
+        height: auto;
+        min-height: 0;
+    }
+
+    nav{
+        height: 130px;
+    }
+
+    nav li, .targetDiv{
+        font-size: 13px;
+        line-height: 14.5pt;
+    }
+
+    #div4{
+        top: 315px;
+    }
+    #div4 input{
+        width: 40%;
+    }
+  /* Retina-specific stuff here */
+  @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    header .logo {
+        width: 210px;
+        height: 174px;
+        background: url(../images/logo-2b-retina.png) no-repeat;
+        background: url(../images/logo-2b.svg) no-repeat;
+        /*background-size: 33px 18px;*/
+    }
+  }

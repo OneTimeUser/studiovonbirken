@@ -1,0 +1,33 @@
+﻿Title: Collective Luxury 3
+
+----
+
+Featured_img: unnamed-1.png
+
+----
+
+Orientation: landscape
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Caption_1: Type,2011
+
+----
+
+Caption_2: Collective Luxury,Logo,Identity,Stationary
+
+----
+
+Caption_3: Collective Luxury
+
+----
+
+Caption_4: White,B&W,Hand-Lettered

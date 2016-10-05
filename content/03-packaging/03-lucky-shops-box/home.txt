@@ -1,0 +1,33 @@
+﻿Title: Lucky Shops Box
+
+----
+
+Featured_img: 
+
+----
+
+Orientation: 
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Caption_1: Packaging,2014
+
+----
+
+Caption_2: Lucky Shops,Logo,Secondaries
+
+----
+
+Caption_3: Lucky
+
+----
+
+Caption_4: Red,White,Helvetica

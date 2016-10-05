@@ -1,0 +1,21 @@
+﻿Title: Blacks
+
+----
+
+Featured_img: black.gif
+
+----
+
+Caption_1: Editorial
+
+----
+
+Caption_2: Teen Vogue
+
+----
+
+Caption_3: Dan Jackson
+
+----
+
+Caption_4: Neon Orange

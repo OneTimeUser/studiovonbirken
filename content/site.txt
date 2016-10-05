@@ -1,0 +1,25 @@
+﻿Title: Studio von Birken
+
+----
+
+Description: 
+
+----
+
+Name: Katia Kuethe
+
+----
+
+Address: 
+
+----
+
+Mail: katia@studiovonbirken.com
+
+----
+
+Author: Katia Kuethe
+
+----
+
+Copyright: © 2016 Studio von Birken, all rights reserved.

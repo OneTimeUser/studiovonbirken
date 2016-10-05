@@ -1,0 +1,37 @@
+﻿Title: Lucky March 2015 Lupita Coverstory
+
+----
+
+Featured_img: 0315-lu-ds23137.jpg
+
+----
+
+Orientation: portrait
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 1
+
+----
+
+Shop: false
+
+----
+
+Caption_1: Editorial,2015
+
+----
+
+Caption_2: Lucky,March 2015,Cover Story
+
+----
+
+Caption_3: Patrick Demarchelier,Lupita Nyong'o
+
+----
+
+Caption_4: Yellow,Cyan,Cobalt Blue,Location

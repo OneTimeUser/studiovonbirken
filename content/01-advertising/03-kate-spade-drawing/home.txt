@@ -1,0 +1,37 @@
+﻿Title: Kate Spade Illustration
+
+----
+
+Featured_img: 2013_06_126606.jpg
+
+----
+
+Orientation: portrait
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Shop: false
+
+----
+
+Caption_1: Advertising,2013
+
+----
+
+Caption_2: Kate Spade,Madison Avenue Flagship,Launch
+
+----
+
+Caption_3: Kate Spade,Bruno Grizzo
+
+----
+
+Caption_4: Garamond,Illustration,Magenta,B&W,Type Lockup,Bow

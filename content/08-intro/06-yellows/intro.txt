@@ -1,0 +1,21 @@
+﻿Title: Yellows
+
+----
+
+Featured_img: yellow.gif
+
+----
+
+Caption_1: Teen Vogue
+
+----
+
+Caption_2: Editorial
+
+----
+
+Caption_3: Dan Jackson
+
+----
+
+Caption_4: Neon Orange

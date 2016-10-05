@@ -1,0 +1,37 @@
+﻿Title: Uniqlo Container Pop Up
+
+----
+
+Featured_img: svb-container-store-2.jpg
+
+----
+
+Orientation: landscape
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Shop: false
+
+----
+
+Caption_1: 3D,Advertising,2006
+
+----
+
+Caption_2: Uniqlo,Pop Up,Launch
+
+----
+
+Caption_3: Uniqlo
+
+----
+
+Caption_4: Cobalt Blue,Red,White

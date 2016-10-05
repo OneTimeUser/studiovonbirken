@@ -1,0 +1,33 @@
+﻿Title: Madison Ave tee
+
+----
+
+Featured_img: 2013_06_126505.jpg
+
+----
+
+Orientation: portrait
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Caption_1: Product,2013
+
+----
+
+Caption_2: Kate Spade,Madison Avenue Flagship,T-Shirt,Launch
+
+----
+
+Caption_3: Kate Spade
+
+----
+
+Caption_4: Cyan,White,Green

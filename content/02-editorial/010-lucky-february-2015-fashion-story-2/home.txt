@@ -1,0 +1,37 @@
+﻿Title: Lucky February 2015 Fashion Story 2
+
+----
+
+Featured_img: 0215-lu-ds22013.jpg
+
+----
+
+Orientation: portrait
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Shop: false
+
+----
+
+Caption_1: Editorial,2015
+
+----
+
+Caption_2: Lucky,February 2015,Fashion Story
+
+----
+
+Caption_3: Raf Stahelin,Bella Heathcote
+
+----
+
+Caption_4: Grey,Studio,Denim,Navy

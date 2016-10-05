@@ -1,0 +1,37 @@
+﻿Title: Kate Spade Store Design
+
+----
+
+Featured_img: 
+
+----
+
+Orientation: 
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 2
+
+----
+
+Shop: false
+
+----
+
+Caption_1: 3D,2013
+
+----
+
+Caption_2: Store Design
+
+----
+
+Caption_3: Kate Spade
+
+----
+
+Caption_4: White,Gold,Bow,Pattern

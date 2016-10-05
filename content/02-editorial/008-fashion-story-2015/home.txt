@@ -1,0 +1,37 @@
+﻿Title: Fashion Story 2015
+
+----
+
+Featured_img: 0615-lu-ds16214.jpg
+
+----
+
+Orientation: portrait
+
+----
+
+Featured_video: 
+
+----
+
+Tier: 1
+
+----
+
+Shop: false
+
+----
+
+Caption_1: Editorial,2015
+
+----
+
+Caption_2: Lucky,April 2015
+
+----
+
+Caption_3: Todd Cole,Tian Yi You
+
+----
+
+Caption_4: Location,Yellow,Grey,White
